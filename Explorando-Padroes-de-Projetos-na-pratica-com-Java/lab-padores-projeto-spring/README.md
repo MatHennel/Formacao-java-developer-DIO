@@ -1,0 +1,1 @@
+Projeto feito no bootcamp da dia, utilizando um crud de endereço, utilizando uma api de cep, usando as tecnologias: SpringBoot, SpringWeb, SpringDataJPA, openAPI3 e o Openfeign, alem de usar os Designs Patterns: Singleton, Facade, Strategy.
